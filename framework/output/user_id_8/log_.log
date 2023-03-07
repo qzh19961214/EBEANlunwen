@@ -1,0 +1,51 @@
+exerciseCode: 8
+evidence: [0, 0, 1, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination Calculation wrong 
+[ 0.0 0.1841117914283195 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 9
+evidence: [0, 0, 1, 0, 0, 0, 1, 0.0]
+evidenceNode: Set Trigonometric_function Property_of_function Image_of_function Spatial_imagination Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.234 0.116 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.2445218674823793 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.2653216626644027 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.23894780904277146 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.30751255155358687 
+0.0 0.0 0.0 0.0 0.0 0.0 0.08190588832060522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.39266455038089493 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 10
+evidence: [1, 0, 0.0]
+evidenceNode: Logarithm_versus_exponential Calculation wrong 
+[ 0.0 0.10128661374212976 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 12
+evidence: [1, 0, 0.0]
+evidenceNode: Trigonometric_function Calculation wrong 
+[ 0.0 0.12163804016744627 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 13
+evidence: [0, 0, 0, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.3134229463884719 0.0 
+0.0 0.0 0.3378388813450075 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 14
+evidence: [0, 0, 0, 0, 0, 0, 0.0]
+evidenceNode: Property_of_function Image_of_function Spatial_imagination Abstract_summarization Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.0 0.0 0.3368151183572354 0.0 0.0 
+0.0 0.0 0.0 0.0 0.32664651048655446 0.0 0.0 
+0.0 0.0 0.0 0.0 0.2789854375114126 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.3928026763937407 
+0.0 0.0 0.0 0.0 0.0 0.24307733535380027 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.40849947213338433 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+ ]

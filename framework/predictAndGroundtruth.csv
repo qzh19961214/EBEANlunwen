@@ -1,0 +1,83 @@
+user_id,problem_id,perdict_wrong_knowledge,true_wrong_knowledge,is_right
+0,14,"['Inequality', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Reasoning_and_demonstration,True
+1,1,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Spatial_imagination']",Spatial_imagination,True
+1,3,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Spatial_imagination,True
+1,8,"['Trigonometric_function', 'Spatial_imagination', 'Calculation']",Spatial_imagination,True
+1,12,"['Trigonometric_function', 'Calculation']",Trigonometric_function,True
+1,13,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Spatial_imagination,True
+1,14,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration', 'Calculation', 'Calculation']",Spatial_imagination,True
+2,2,"['Trigonometric_function', 'Calculation']",Calculation,True
+2,3,"['Plane_vector', 'Image_of_function', 'Reasoning_and_demonstration']",Calculation,False
+2,4,"['Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Spatial_imagination']",Logarithm_versus_exponential,True
+2,5,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Calculation,False
+2,7,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Calculation,False
+2,8,"['Trigonometric_function', 'Image_of_function', 'Spatial_imagination']",Calculation,False
+2,10,['Logarithm_versus_exponential'],Logarithm_versus_exponential,True
+2,12,"['Trigonometric_function', 'Calculation']",Calculation,True
+2,13,"['Image_of_function', 'Reasoning_and_demonstration']",Calculation,False
+2,14,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Logarithm_versus_exponential,False
+3,3,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Spatial_imagination,True
+3,4,"['Logarithm_versus_exponential', 'Image_of_function', 'Spatial_imagination']",Spatial_imagination,True
+3,5,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Spatial_imagination,True
+3,9,"['Inequality', 'Trigonometric_function', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration']",Spatial_imagination,False
+3,14,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Spatial_imagination,True
+4,0,"['Set', 'Inequality', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration']",Set,True
+4,3,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Plane_vector,True
+4,5,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Property_of_function,False
+4,7,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Plane_vector,True
+4,8,"['Trigonometric_function', 'Image_of_function', 'Spatial_imagination']",Set,False
+4,9,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration', 'Calculation']",Property_of_function,False
+4,12,"['Trigonometric_function', 'Calculation']",Set,False
+4,14,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration']",Property_of_function,False
+5,1,"['Trigonometric_function', 'Image_of_function', 'Spatial_imagination']",Spatial_imagination,True
+5,2,"['Trigonometric_function', 'Calculation']",Calculation,True
+5,4,"['Inequality', 'Image_of_function', 'Spatial_imagination', 'Calculation']",Calculation,True
+5,7,"['Image_of_function', 'Abstract_summarization', 'Reasoning_and_demonstration', 'Calculation']",Calculation,True
+5,8,"['Trigonometric_function', 'Spatial_imagination', 'Calculation']",Calculation,True
+5,10,"['Logarithm_versus_exponential', 'Calculation']",Calculation,True
+5,12,"['Trigonometric_function', 'Calculation']",Calculation,True
+5,13,"['Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Calculation,False
+5,14,"['Inequality', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Calculation,False
+6,7,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Image_of_function,True
+6,10,['Logarithm_versus_exponential'],Calculation,False
+6,11,"['Trigonometric_function', 'Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Spatial_imagination']",Image_of_function,True
+6,12,"['Trigonometric_function', 'Calculation']",Calculation,True
+6,14,"['Inequality', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Abstract_summarization', 'Reasoning_and_demonstration']",Image_of_function,True
+7,1,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Spatial_imagination']",Set,False
+7,4,"['Logarithm_versus_exponential', 'Image_of_function', 'Spatial_imagination']",Calculation,False
+7,5,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration', 'Calculation']",Reasoning_and_demonstration,True
+7,6,"['Inequality', 'Property_of_function', 'Abstract_summarization']",Calculation,False
+7,8,"['Trigonometric_function', 'Image_of_function', 'Spatial_imagination']",Set,False
+7,9,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration', 'Calculation']",Set,False
+7,10,"['Logarithm_versus_exponential', 'Calculation']",Set,False
+7,11,"['Plane_vector', 'Image_of_function', 'Spatial_imagination']",Calculation,False
+7,12,"['Trigonometric_function', 'Calculation']",Set,False
+7,13,"['Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Reasoning_and_demonstration,True
+7,14,"['Inequality', 'Trigonometric_function', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration', 'Calculation']",Reasoning_and_demonstration,True
+8,8,"['Trigonometric_function', 'Image_of_function', 'Spatial_imagination']",Calculation,False
+8,9,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Abstract_summarization', 'Reasoning_and_demonstration']",Calculation,False
+8,10,"['Logarithm_versus_exponential', 'Calculation']",Calculation,True
+8,12,"['Trigonometric_function', 'Calculation']",Calculation,True
+8,13,"['Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Calculation,False
+8,14,"['Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration', 'Calculation', 'Calculation']",Calculation,True
+9,2,"['Trigonometric_function', 'Calculation']",Trigonometric_function,True
+9,8,"['Trigonometric_function', 'Spatial_imagination', 'Calculation']",Trigonometric_function,True
+9,9,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Image_of_function', 'Reasoning_and_demonstration', 'Calculation', 'Calculation']",Logarithm_versus_exponential,True
+9,10,['Logarithm_versus_exponential'],Logarithm_versus_exponential,True
+9,12,['Trigonometric_function'],Trigonometric_function,True
+9,13,"['Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Plane_vector,False
+9,14,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Reasoning_and_demonstration']",Logarithm_versus_exponential,True
+10,12,"['Trigonometric_function', 'Calculation']",Set,False
+10,14,"['Inequality', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Abstract_summarization,False
+11,0,"['Set', 'Inequality', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration']",Calculation,False
+11,1,"['Trigonometric_function', 'Plane_vector', 'Image_of_function', 'Spatial_imagination']",Trigonometric_function,True
+11,2,"['Trigonometric_function', 'Calculation']",Trigonometric_function,True
+11,4,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Plane_vector', 'Spatial_imagination', 'Calculation']",Trigonometric_function,True
+11,7,"['Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Calculation,False
+11,8,"['Trigonometric_function', 'Spatial_imagination', 'Calculation']",Trigonometric_function,True
+11,9,"['Inequality', 'Trigonometric_function', 'Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Reasoning_and_demonstration', 'Calculation']",Trigonometric_function,True
+11,10,"['Logarithm_versus_exponential', 'Calculation']",Logarithm_versus_exponential,True
+user_id,problem_id,perdict_wrong_knowledge,true_wrong_knowledge,is_right
+user_id,problem_id,perdict_wrong_knowledge,true_wrong_knowledge,is_right
+0,14,"['Logarithm_versus_exponential', 'Plane_vector', 'Image_of_function', 'Image_of_function', 'Spatial_imagination', 'Reasoning_and_demonstration']",Reasoning_and_demonstration,True
+user_id,problem_id,perdict_wrong_knowledge,true_wrong_knowledge,is_right

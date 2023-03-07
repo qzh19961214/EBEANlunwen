@@ -1,0 +1,44 @@
+network unknown {
+}
+variable A1 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A2 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A3 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A4 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A5 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A6 {
+    type discrete [ 2 ] { 0, 1 };
+}
+variable A7 {
+    type discrete [ 2 ] { 0, 1 };
+}
+probability ( A1 ) {
+    table 0.6, 0.4 ;
+}
+probability ( A2 | A1 ) {
+    table 0.6, 0.55, 0.4, 0.45 ;
+}
+probability ( A3 | A1 ) {
+    table 0.6, 0.55, 0.4, 0.45 ;
+}
+probability ( A4 | A1 ) {
+    table 0.6, 0.55, 0.4, 0.45 ;
+}
+probability ( A5 | A2, A3 ) {
+    table 0.6, 0.5, 0.5, 0.4, 0.4, 0.5, 0.5, 0.6 ;
+}
+probability ( A6 | A4 ) {
+    table 0.6, 0.55, 0.4, 0.45 ;
+}
+probability ( A7 | A5 ) {
+    table 0.6, 0.55, 0.4, 0.45 ;
+}

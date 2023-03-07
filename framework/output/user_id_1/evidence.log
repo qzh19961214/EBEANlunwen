@@ -1,0 +1,18 @@
+exerciseCode: 1
+evidence: [0, 0, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination wrong 
+exerciseCode: 3
+evidence: [0, 1, 1, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+exerciseCode: 8
+evidence: [0, 0, 0, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination Calculation wrong 
+exerciseCode: 12
+evidence: [0, 0, 0.0]
+evidenceNode: Trigonometric_function Calculation wrong 
+exerciseCode: 13
+evidence: [0, 1, 0, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+exerciseCode: 14
+evidence: [0, 0, 0, 0, 0, 0, 0.0]
+evidenceNode: Property_of_function Image_of_function Spatial_imagination Abstract_summarization Reasoning_and_demonstration Calculation wrong 

@@ -1,0 +1,29 @@
+exerciseCode: SX04B04010303C006
+evidence: [1, 0, 0, 0]
+evidenceNode: ´í 
+exerciseCode: SX04B04020201A007
+evidence: [0, 0, 0]
+evidenceNode: ´í 
+exerciseCode: SX04B04020201A007
+evidence: [0, 0, 0]
+evidenceNode: ´í 
+exerciseCode: SX04B04020201A007
+evidence: [0, 0, 0]
+evidenceNode: ´í 
+exerciseCode: SX04B04020201A007
+evidence: [0, 0, 0]
+evidenceNode: ´í 
+[ 0.0 0.16666666666666669 0.0 
+0.0 0.0 0.6666666666666667 
+0.0 0.0 0.0 
+ ]
+exerciseCode: SX04B04020201A007
+evidence: [1, 1, 1]
+evidenceNode: ´í 
+[ 0.0 0.0005 0.0 
+0.0 0.0 0.5 
+0.0 0.0 0.0 
+ ]
+exerciseCode: SX04B04020202A001
+evidence: [1, 1, 1]
+evidenceNode: ´í 

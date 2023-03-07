@@ -1,0 +1,40 @@
+exerciseCode: 7
+evidence: [1, 1, 1, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.238045061486453 0.0 
+0.0 0.0 0.2549413720862746 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 10
+evidence: [1, 1, 0.0]
+evidenceNode: Logarithm_versus_exponential Calculation wrong 
+[ 0.0 0.08101156267990531 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 11
+evidence: [0, 1, 1, 0.0]
+evidenceNode: Property_of_function Spatial_imagination Calculation wrong 
+[ 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 12
+evidence: [1, 0, 0.0]
+evidenceNode: Trigonometric_function Calculation wrong 
+[ 0.0 0.05513270214053878 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 14
+evidence: [0, 0, 0, 0, 0, 0, 0.0]
+evidenceNode: Property_of_function Image_of_function Spatial_imagination Abstract_summarization Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.0 0.0 0.33478163190252647 0.0 0.0 
+0.0 0.0 0.0 0.0 0.2964961356522374 0.0 0.0 
+0.0 0.0 0.0 0.0 0.24834599213953862 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.31309936758121304 
+0.0 0.0 0.0 0.0 0.0 0.254121206652881 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.35103599121657103 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+ ]

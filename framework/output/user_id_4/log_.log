@@ -1,0 +1,70 @@
+exerciseCode: 0
+evidence: [1, 1, 1, 1, 0.0]
+evidenceNode: Set Inequality Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.3487651496842098 0.0 
+0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 3
+evidence: [1, 1, 1, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.27081681460628265 0.0 
+0.0 0.0 0.3218562279843929 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 5
+evidence: [0, 1, 1, 0.0]
+evidenceNode: Image_of_function Spatial_imagination Reasoning_and_demonstration wrong 
+[ 0.0 0.0 0.0 0.2904780056237046 
+0.0 0.0 0.09449789478472094 0.0 
+0.0 0.0 0.0 0.32482053605461636 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 7
+evidence: [1, 1, 1, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.27703308658523385 0.0 
+0.0 0.0 0.261879099056383 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 8
+evidence: [0, 1, 1, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination Calculation wrong 
+[ 0.0 0.05126851968646935 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 9
+evidence: [0, 0, 0, 0, 1, 0, 0, 0.0]
+evidenceNode: Set Trigonometric_function Property_of_function Image_of_function Spatial_imagination Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.2039952409470309 0.08599885746587865 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.33235720568917404 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.3805399573360709 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.28480807299135674 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.24408504585172777 
+0.0 0.0 0.0 0.0 0.0 0.0 0.23806037933476867 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.2932563511754723 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0  ]
+exerciseCode: 12
+evidence: [0, 0, 0.0]
+evidenceNode: Trigonometric_function Calculation wrong 
+[ 0.0 0.11747143462110386 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 14
+evidence: [0, 0, 0, 0, 0, 0, 0.0]
+evidenceNode: Property_of_function Image_of_function Spatial_imagination Abstract_summarization Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.0 0.0 0.3082904487152873 0.0 0.0 
+0.0 0.0 0.0 0.0 0.3509226090172518 0.0 0.0 
+0.0 0.0 0.0 0.0 0.24594636802700873 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.32139636630668617 
+0.0 0.0 0.0 0.0 0.0 0.2988206337034837 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.37854595375780115 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+ ]

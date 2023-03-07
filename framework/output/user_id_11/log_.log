@@ -1,0 +1,65 @@
+exerciseCode: 0
+evidence: [1, 1, 1, 0, 0.0]
+evidenceNode: Set Inequality Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.34655894930078435 0.0 
+0.0 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 1
+evidence: [0, 0, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination wrong 
+[ 0.0 0.05128418588972243 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 2
+evidence: [1, 0, 0.0]
+evidenceNode: Trigonometric_function Calculation wrong 
+[ 0.0 0.06399723134848359 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 4
+evidence: [1, 0, 0.0]
+evidenceNode: Property_of_function Spatial_imagination wrong 
+[ 0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
+exerciseCode: 7
+evidence: [1, 1, 0, 0.0]
+evidenceNode: Plane_vector Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.26430774966480364 0.0 
+0.0 0.0 0.29380899515443937 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 8
+evidence: [0, 1, 0, 0.0]
+evidenceNode: Trigonometric_function Spatial_imagination Calculation wrong 
+[ 0.0 0.07514858235333217 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 9
+evidence: [0, 0, 1, 0, 1, 1, 1, 0.0]
+evidenceNode: Set Trigonometric_function Property_of_function Image_of_function Spatial_imagination Reasoning_and_demonstration Calculation wrong 
+[ 0.0 0.0 0.218 0.09000000000000001 0.0 0.0 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.25248228094704267 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.30302295331028856 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.25973997390868897 0.0 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.2692911384399206 
+0.0 0.0 0.0 0.0 0.0 0.0 0.12187963813029237 0.0 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.29725765050165454 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+ ]
+exerciseCode: 10
+evidence: [0, 0, 0.0]
+evidenceNode: Logarithm_versus_exponential Calculation wrong 
+[ 0.0 0.1408791216692311 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+ ]
